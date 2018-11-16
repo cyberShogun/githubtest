@@ -1,1 +1,2 @@
-﻿Github test
+Github Test
+New Line
